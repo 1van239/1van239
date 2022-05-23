@@ -605,6 +605,7 @@ html,body{
   display: block;
   height: 60px;
   width: 60px;
+  color: white;
 
   border-radius: 50%;
   position: relative;
@@ -662,7 +663,7 @@ html,body{
 .wrapper .twitter:hover span,
 .wrapper .twitter:hover .tooltip,
 .wrapper .twitter:hover .tooltip:before{
-  background: #46C1F6;
+  background: hsl(199, 79%, 20%);
 }
 .wrapper .instagram:hover span,
 .wrapper .instagram:hover .tooltip,
